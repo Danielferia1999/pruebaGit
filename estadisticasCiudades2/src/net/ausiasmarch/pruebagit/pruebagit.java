@@ -30,7 +30,4 @@ public int suma() {
 public int resta() {
 return op1 - op2;
 }
-public int division() {
-	return op1 / op2;
-}
 }
