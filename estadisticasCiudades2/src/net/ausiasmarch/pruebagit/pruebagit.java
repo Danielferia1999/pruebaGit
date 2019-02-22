@@ -24,5 +24,10 @@ public int getOp2() {
 public void setOp2(int op2) {
 	this.op2 = op2;
 }
-
+public int suma() {
+	return op1 + op2;
+}
+public int resta() {
+return op1 - op2;
+}
 }
